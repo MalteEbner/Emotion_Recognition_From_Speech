@@ -7,3 +7,5 @@ The jupiter notebook implementing a convolutional neural network for the task is
 
 Automatic hyperparameter optimization using tree parzen estimators was used.
 
+The dataset is not included in this repository.
+
