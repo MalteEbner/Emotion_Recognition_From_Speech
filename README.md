@@ -1,5 +1,5 @@
 # Emotion_Recognition_From_Speech
-The task was to create a classifier for emotion recognition from speech
+The project was part of the course 'Deep learning for natural language processing' at the University of Stuttgart. The task was to create a classifier for emotion recognition from speech.
 
 A more detailed task description is found under https://github.com/MalteEbner/Emotion_Recognition_From_Speech/blob/master/Projects.pdf.
 
